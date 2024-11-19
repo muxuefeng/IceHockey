@@ -1,4 +1,4 @@
-# Score and Timing controller (200 USD)
+# Score and Timing controller 
 - Score
 - Timing
 - Pack xml and send
