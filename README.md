@@ -4,11 +4,11 @@
 - Pack xml and send
 ***
 deadline 21.6.2020
-# ScoreBord (200 USD)
+# ScoreBord
 - Receive xml and display
-# Command Edit (200 USD)
+# Command Edit
 - Edit command and pack
-# Command Sender （200 USD)
+# Command Sender
 - send message
 ***
 deadline 21.9.2020
